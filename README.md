@@ -1,3 +1,14 @@
-# sellry-js
+Sellry Javascript Code Tests
 
-Sellry javascript exercise
+Please complete these exercises by cloning this project locally, and emailing us the modified files.
+
+The bare minimum is that the requirements under minimum acceptance criteria are met.
+
+1. Palindrome
+A palindrome is a word that reads the same backward or forward.
+
+Write a function that checks if a given word is a palindrome. Character case should be ignored, non alphanumeric characters should also be ignored.
+
+
+2. Date Formatting
+Write a function that converts user entered date formatted as M/D/YYYY to a format required by an API (YYYYMMDD). The parameter "date" and the return value are strings.
